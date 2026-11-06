@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-     <a href="gameflix-joaovmsdev.netlify.app/">📱 Visite o projeto!</a>
+     <a href="https://gameflix-joaovmsdev.netlify.app/">📱 Visite o projeto!</a>
 </p>
 
 <p align="center">
